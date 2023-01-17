@@ -12,3 +12,4 @@ ahead to remove empty roles in between my data set. During my cleaning process I
 - Formatted the 'price each' column to dollars for better understanding and visualizion
 - Created a column to calculate the total amount of product purchased per order id ('Quantity purchased' * 'Price each')
 - Create a column to convert the amount from dollar to naira using an exchange rate of 746/$ (as at Jan. 15, 2023)
+- Using the Find and Replace function I converted my month column from number format to text.
