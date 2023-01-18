@@ -13,3 +13,11 @@ ahead to remove empty roles in between my data set. During my cleaning process I
 - Created a column to calculate the total amount of product purchased per order id ('Quantity purchased' * 'Price each')
 - Create a column to convert the amount from dollar to naira using an exchange rate of 746/$ (as at Jan. 15, 2023)
 - Using the Find and Replace function I converted my month column from number format to text.
+
+Exploratory questions
+1. What was the month with the most revenue
+2. What city generated the most sales
+3. What product were purchased most often than others
+4. Are there products that sell along side it
+5. What can be done to improve the business
+6. What can the business channel more efforts to increase sales
