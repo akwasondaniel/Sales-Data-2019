@@ -1,7 +1,16 @@
 # Sales-Data-2019
 
+Introduction
 
-Cleaning Process
+An Electronics shop in Nigeria decided to expand their reach in the US. Here is their data for the year 2019 only. 
+
+
+Busineess Problem
+
+My task here is to look at the business data and study it enough to help between their renenue and increase sales for the coming year in 2020.
+
+
+Data wrangling Process
 
 Because I used power query to merge the 12 different .xlsx files into one sheet, I had some blanks and inconsitent cell formats. I went 
 ahead to remove empty roles in between my data set. During my cleaning process I did the following
@@ -21,3 +30,5 @@ Exploratory questions
 4. Are there products that sell along side it
 5. What can be done to improve the business
 6. What can the business channel more efforts to increase sales
+
+Analysis and Viz
