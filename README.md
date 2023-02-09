@@ -27,8 +27,8 @@ Exploratory questions
 1. What was the month with the most revenue
 2. What city generated the most sales
 3. What product were purchased most often than others
-4. Are there products that sell along side it
-5. What can be done to improve the business
-6. What can the business channel more efforts to increase sales
+4. What can be done to improve the business
+5. What can the business channel more efforts to increase sales
 
 Analysis and Viz
+https://public.tableau.com/app/profile/daniel.a.2879/viz/SaleDataVizualization/Dashboard1#1
